@@ -8,7 +8,7 @@ class Settings(BaseSettings):
     API_HASH: str
 
     AUTO_UPGRADE: bool = True
-    REF_LINK: str = "https://t.me/kaiaplaybot/app?startapp=ref-tcrlv5e41er1h8d"
+    REF_LINK: str = ""
     AUTO_SPIN: bool = True
     LVL_TO_SPIN: int = 3
 
